@@ -8,8 +8,8 @@ app.use(bodyParser.urlencoded({extended: true}));
 
 app.listen(3000,()=>
 {
-    console.log("Starting Server..");
-    console.log("Please Wait..We are Starting Server..");
+   // console.log("Starting Server..");
+//    console.log("Please Wait..We are Starting Server..");
     console.log("Server Started.....");
 })
 
